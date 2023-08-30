@@ -1,9 +1,9 @@
 {
     "id": "7B98A626",
-    "path": "C:/Users/08451589707/Documents/GitHub/biblioteca_virtual/artigos.Rmd",
-    "project_path": "artigos.Rmd",
+    "path": "~/GitHub/biblioteca_virtual/livros.Rmd",
+    "project_path": "livros.Rmd",
     "type": "r_markdown",
-    "hash": "3347818942",
+    "hash": "764867397",
     "contents": "",
     "dirty": false,
     "created": 1693407213915.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "14,6",
-        "scrollLine": "3"
+        "cursorPosition": "40,0",
+        "scrollLine": "30"
     },
     "folds": "",
-    "lastKnownWriteTime": 1693430732,
+    "lastKnownWriteTime": 1693431378,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1693430732250,
+    "last_content_update": 1693431378453,
     "read_only": false,
     "read_only_alternatives": []
 }

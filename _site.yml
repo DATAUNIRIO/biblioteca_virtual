@@ -10,7 +10,7 @@ navbar:
     - text: Artigos
       href: artigos.html
     - text: Livros
-      href: module1.html
+      href: livros.html
     - text: Capítulos de Livro
       href: module1.html
     - text: Relatórios Técnicos
