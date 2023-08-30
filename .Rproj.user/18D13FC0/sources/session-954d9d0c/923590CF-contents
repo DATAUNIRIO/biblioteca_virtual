@@ -2,28 +2,55 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-3 stats">
-				<i class="fa fa-book" aria-hidden="true"></i>
-				<div class="counting" data-count="9999">0</div>
+				<i class="fa fa-newspaper-o" aria-hidden="true"></i>
+				<div class="counting" data-count="0037">0</div>
 				<h5>Artigos</h5>
 			</div>
+			
 
 			<div class="col-lg-3 stats">
-				<i class="fa fa-user" aria-hidden="true"></i>
-				<div class="counting" data-count="9999">0</div>
+				<i class="fa fa-book" aria-hidden="true"></i>
+				<div class="counting" data-count="0001">0</div>
 				<h5>Livros</h5>
 			</div>
 
 			<div class="col-lg-3 stats">
-				<i class="fa fa-book" aria-hidden="true"></i>
-				<div class="counting" data-count="9999">0</div>
-				<h5>Capítulos</h5>
+				<i class="fa fa-tablet" aria-hidden="true"></i>
+				<div class="counting" data-count="0002">0</div>
+				<h5>WebBook</h5>
 			</div>
 
 			<div class="col-lg-3 stats">
-				<i class="fa fa-user" aria-hidden="true"></i>
-				<div class="counting" data-count="9999">0</div>
+				<i class="fa fa-file-text" aria-hidden="true"></i>
+				<div class="counting" data-count="0019">0</div>
 				<h5>Relatórios</h5>
 			</div>
+
+
+			<div class="col-lg-3 stats">
+				<i class="fa fa-file" aria-hidden="true"></i>
+				<div class="counting" data-count="0011">0</div>
+				<h5>Capítulos</h5>
+			</div>
+			
+			<div class="col-lg-3 stats">
+				<i class="fa fa-pie-chart" aria-hidden="true"></i>
+				<div class="counting" data-count="0002">0</div>
+				<h5>Infográficos</h5>
+			</div>
+
+			<div class="col-lg-3 stats">
+				<i class="fa fa-file-code-o" aria-hidden="true"></i>
+				<div class="counting" data-count="0378">0</div>
+				<h5>Códigos</h5>
+			</div>
+			<div class="col-lg-3 stats">
+				<i class="fa fa-database" aria-hidden="true"></i>
+				<div class="counting" data-count="0004">0</div>
+				<h5>Bases de dados</h5>
+			</div>
+
+
 
 
 		</div>

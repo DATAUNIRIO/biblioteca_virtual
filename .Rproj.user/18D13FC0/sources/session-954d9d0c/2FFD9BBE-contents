@@ -5,10 +5,10 @@ navbar:
   left:
   - text: Início
     href: index.html
-  - text: Produção Acadêmica
+  - text: Acervo Acadêmico
     menu:
     - text: Artigos
-      href: module1.html
+      href: artigos.html
     - text: Livros
       href: module1.html
     - text: Capítulos de Livro

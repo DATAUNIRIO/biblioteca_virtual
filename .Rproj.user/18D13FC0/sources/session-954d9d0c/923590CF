@@ -3,7 +3,7 @@
     "path": "~/GitHub/biblioteca_virtual/stats_counter.html",
     "project_path": "stats_counter.html",
     "type": "html",
-    "hash": "0",
+    "hash": "1162272304",
     "contents": "",
     "dirty": false,
     "created": 1693407280339.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "21,0",
-        "scrollLine": "18"
+        "cursorPosition": "24,42",
+        "scrollLine": "15"
     },
     "folds": "",
-    "lastKnownWriteTime": 1693408200,
+    "lastKnownWriteTime": 1693429383,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1693408200164,
+    "last_content_update": 1693429383264,
     "read_only": false,
     "read_only_alternatives": []
 }

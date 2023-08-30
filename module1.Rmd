@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "Acervo"
 author: " "
 date: "2022-09-27"
 output: html_document
@@ -9,8 +9,13 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+O acervo da Biblioteca Virtual é constituído por:
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+1. Publicações bibliográficas produzidas por editoras universitárias e editoras comerciais;
+2. Obras de referência (Manuais, guias, dicionários, enciclopédias, atlas, etc);
+3. Periódicos (jornais, boletins, revistas de caráter técnico-científico ou informativo);
+4. Capitulo de Livro;
+5. Materiais iconográficos (Infográficos, cartazes, folderes, filipetas e outros materiais que tenham como suporte o papel, utilizados para a divulgação de campanhas e eventos realizados pelo DATAUNIRIO ou pelo DMQ);
+6. Publicações Digitais (publicações disponíveis em meio eletrônico nos formatos PDF, EPUB e webBook);
+7. Blogs.
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
