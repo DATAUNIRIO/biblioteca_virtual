@@ -1,9 +1,9 @@
 {
     "id": "7B98A626",
-    "path": "~/GitHub/biblioteca_virtual/livros.Rmd",
-    "project_path": "livros.Rmd",
+    "path": "~/GitHub/biblioteca_virtual/Rython.Rmd",
+    "project_path": "Rython.Rmd",
     "type": "r_markdown",
-    "hash": "764867397",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1693407213915.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "40,0",
-        "scrollLine": "30"
+        "cursorPosition": "11,8",
+        "scrollLine": "8"
     },
     "folds": "",
-    "lastKnownWriteTime": 1693431378,
+    "lastKnownWriteTime": 1693502190,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1693431378453,
+    "last_content_update": 1693502190253,
     "read_only": false,
     "read_only_alternatives": []
 }

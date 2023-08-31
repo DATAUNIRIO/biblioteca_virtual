@@ -19,6 +19,10 @@ navbar:
     menu:
     - text: Banco de dados
       href: https://repositorio.metodosquantitativos.com/
+  - text: Python e R
+    menu:
+    - text: R e Python
+      href: Rython.html
   - text: Divulgação
     menu:
     - text: Mídia

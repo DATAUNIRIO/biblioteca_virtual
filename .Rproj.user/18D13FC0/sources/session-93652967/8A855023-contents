@@ -8,16 +8,6 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 
-# https://steven.metodosquantitativos.com/
-
-# REFERENCIAS
-# https://rstudio4edu.github.io/rstudio4edu-book/rmd-dress.html
-# https://stackoverflow.com/questions/43956378/how-to-add-dropdown-menu-on-tab-tabset-rmarkdown-bootstrap
-
-#https://codepen.io/arafkarim/pen/yqaqRR
-#https://codepen.io/shvvffle/full/JRrLqG
-#https://codepen.io/joshgjohnson/full/KRpJvP
-
 # htmltools::tagList(
 #   htmltools::tags$script(src = "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"),
 #   htmltools::tags$script(src = "https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"),
