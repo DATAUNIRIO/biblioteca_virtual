@@ -1,0 +1,182 @@
+---
+title: "Artigos"
+author: " "
+date: " "
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Artigos em periódico científico   
+  
+## Educação    
+
+```{r, out.width = "40px", echo=FALSE,eval=FALSE}
+#knitr::include_graphics("img/pdf-icon.png")
+#![Image Title](path/to/your/image){width=250px}
+
+```
+
+#### **[1. Diagnóstico da escolarização no Brasil na perspectiva da exclusão escolar](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/DATAUNIRIO/biblioteca_virtual/main/artigos/1_diagnostico_da_escolarizacao.pdf)**
+
+Este artigo é um estudo crítico da perspectiva da exclusão, que ganhou destaque especialmente nos anos de 1980 a 1990 e foi aplicada, tanto na França como no Brasil, em diagnósticos de escolarização, por noções como as de exclusão da escola, exclusão na escola e excluídos do interior. As análises desenvolvidas revelam que, em que pesem as limitações inerentes à noção de exclusão, de poder mais descritivo que explicativo, esta continua prestando-se para dimensionar os desafios ainda postos à universalização da escolarização básica. Com efeito, ressalvados os avanços obtidos desde 1980, o Brasil contava ainda, em 2010, com 3,2 milhões de crianças e adolescentes de 4 a 17 anos fora da escola (excluídos da escola) e outros sete milhões com dois ou mais anos de defasagem nos estudos (de excluídos na escola)
+
+**Palavras-chave** : escolarização; diagnóstico; exclusão escolar; Brasil. 
+
+Revista Brasileira de Educação.
+
+[![](img/pdf-icon.png){width=40px}](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/DATAUNIRIO/biblioteca_virtual/main/artigos/1_diagnostico_da_escolarizacao.pdf)
+   
+   
+------------------------------------------------------------------------
+ 
+####  **[2. Employing the Components of the Human Development Index to Drive Resources to Educational Policies](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/DATAUNIRIO/biblioteca_virtual/main/artigos/1_diagnostico_da_escolarizacao.pdf)**
+
+A new form of composition of the indicators employed to generate the United Nations Human Development Index (HDI) is presented here. This form of composition is based on the assumption that random errors affect the measurement of each indicator. This assumption allows for replacing the vector of evaluations according to each indicator by vectors of probabilities of being the best or the worst according to such attribute. The probabilistic composition of such probabilities of preference according to each indicator into probabilities of being the best or the worst according to all of them generates indices that may unveil, on one hand, performances to be followed and, on the other hand, extreme conditions that an additive composition would hide. Differences between the results of application of the diverse forms of composition are examined in the case of the HDI and in the case of the districts version of the HDI employed to compare Brazilian municipalities. It is verified that the smallest correlation between the education enrolment rate and the other indicators in the Brazilian case enlarges such differences.
+
+Publicado em Social Indicators Research em 2010.
+
+[![](img/pdf-icon.png){width=40px}](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/DATAUNIRIO/biblioteca_virtual/main/artigos/1_diagnostico_da_escolarizacao.pdf)
+
+
+
+#### **[3. Ranking de Municípios para Políticas Públicas de Educação: Comparação entre Avaliações Multicritério a partir do IDH](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/DATAUNIRIO/biblioteca_virtual/main/artigos/1_diagnostico_da_escolarizacao.pdf)**
+
+Neste artigo se desenvolvem alternativas de abordagem multicritério visando à seleção de municípios para a implementação de políticas públicas de educação. Considerando que a situação da educação no Brasil apresenta grande variabilidade, o que impacta as demandas educacionais por políticas públicas de educação de forma diferente em diferentes regiões, verifica-se a necessidade de critérios objetivos para a seleção de pontos de aplicação de recursos para o combate a desigualdades nessa área. Em particular, se discute o emprego do Índice de Desenvolvimento Humano como fundamento para decisões na área educacional. Além disso, visa-se a estabelecer condições para a comparação dessas situações segundo diferentes critérios utilizados para fundamentar políticas públicas de educação.
+
+Publicado em Pesquisa Operacional para o Desenvolvimento em 2010.
+
+[![](img/pdf-icon.png){width=40px}](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/DATAUNIRIO/biblioteca_virtual/main/artigos/1_diagnostico_da_escolarizacao.pdf)
+
+
+------------------------------------------------------------------------
+
+## Ciência Política    
+
+#### **[4. Os determinantes da avaliação da economia na eleição presidencial brasileira em 2014](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/DATAUNIRIO/biblioteca_virtual/main/artigos/1_diagnostico_da_escolarizacao.pdf)**
+
+Este artigo analisa os determinantes da avaliação econômica retrospectiva sociotrópica na eleição presidencial no Brasil em 2014, com base: a) no conhecimento que o eleitor possui a partir de informação objetiva da economia; b) no conhecimento que o eleitor possui a partir de sua experiência vivida/sensação de mobilidade social; c) a sua afetividade partidária; d) a sua identidade ideológica. Nossa contribuição foi mostrar que: a) ter conhecimento/informação objetiva da economia não tem impacto na avaliação da economia; b) o conhecimento advindo da experiência vivida, identificado aqui como sensação de mobilidade social, não impacta na avaliação da economia no sentido esperado – mais ascensão, mais tendência de avaliação positiva; c) a afetividade partidária, por sua vez, demonstrou forte impacto na avaliação da economia. O artigo usa dados do CSES/Eseb – Estudo Eleitoral Brasileiro
+
+Revista Opinião Pública, Dez 2016, Volume 22.
+
+[![](img/pdf-icon.png){width=40px}](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/DATAUNIRIO/biblioteca_virtual/main/artigos/1_diagnostico_da_escolarizacao.pdf)
+
+
+#### **[5. Community policing in the Favelas of Rio de Janeiro](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/DATAUNIRIO/biblioteca_virtual/main/artigos/1_diagnostico_da_escolarizacao.pdf)**
+
+This article evaluates the adoption of a new model for community policing in two communities in Rio de Janeiro. They were initially dominated by heavily armed criminal gangs that challenged the hegemony of the Brazilian state. A version of community policing was introduced in these two poor areas. Its principal feature was a commitment to delivering honest, professional, and respectful policing; other initiatives commonly associated with community policing in the northern hemisphere would have to come later. The questions addressed here were whether the police could actually mount such a program, and if they could respond effectively to crime and disorder while avoiding abusive conduct. Six hundred residents of the study communities were surveyed regarding the program and their concerns about crime and police misconduct. The survey found widespread support for the initial interven- tion by Rio de Janeiro’s police, which aimed at damping the presence of armed criminal gangs and reducing omnipresent fear of crime. The findings suggest that it is possible for police to improve the quality of life and reduce concern about crime in one of the most difficult urban environments in the Americas.
+
+Publicado em Police Practice and Research: An International Journal em 2013.
+
+[![](img/pdf-icon.png){width=40px}](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/DATAUNIRIO/biblioteca_virtual/main/artigos/1_diagnostico_da_escolarizacao.pdf)
+
+
+------------------------------------------------------------------------
+
+## Saúde
+
+#### **[6. Evaluation of Primary Health Care Units in the Rio De Janeiro City According to the Results of PMAQ 2012](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/DATAUNIRIO/biblioteca_virtual/main/artigos/1_diagnostico_da_escolarizacao.pdf)**
+
+To assess the quality of the primary health care network, the Ministry of Health created the Program for Improving Access and Quality in Primary Care (PMAQ), a national evaluation of family health teams. Thus, this study aims to present the geolocation of PMAQ 2012 quality indicators in the city of Rio de Janeiro. The PMAQ data show that, in the city of Rio de Janeiro, 65% of the teams achieved the performances “good” or “excellent,” 34.7% “regular,” and 0.3% “unsatisfactory.” The results show a clear PMAQ polarization between teams units classified as optimal and regular in program areas 5 and 3, respectively. 
+
+Journal of Ambulatory Care Management em 2017.
+
+[![](img/pdf-icon.png){width=40px}](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/DATAUNIRIO/biblioteca_virtual/main/artigos/1_diagnostico_da_escolarizacao.pdf)
+
+
+------------------------------------------------------------------------
+
+## Administração Pública 
+
+#### **[6. A permanência do modelo instrumental do ensino em Administração](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/DATAUNIRIO/biblioteca_virtual/main/artigos/1_diagnostico_da_escolarizacao.pdf)**
+
+
+Este trabalho busca aproximar o conceito de indústria cultural apresentado em Dialética do esclarecimento (Adorno e Horkheimer, 1985) ao ensino de administração no Brasil. Utiliza-se também o conceito de esclarecimento como possibilidade de ir contra a massificação do ensino em administração no país. Para apresentar a presença predominante de uma racionalidade instrumental nos cursos no Brasil, 37 instituições de ensino em administração tiveram suas estruturas curriculares analisadas. Foram construídas três categorias: (a) disciplinas profissionalizantes; (b) raciocínio quantitativo, e, (c) estudos organizacionais. A maioria das escolas se encontra num modelo que foi chamado de instrumental neste artigo. Buscando apresentar uma alternativa diferente daquelas usuais, relata-se um caso do PCDA em que é possível discutir uma forma de construção de uma estrutura curricular interdisciplinar e coerente com as necessidades dos alunos.
+
+Publicado na revista Pensamento Contemporâneo em Administração em 2008.
+
+[![](img/pdf-icon.png){width=40px}](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/DATAUNIRIO/biblioteca_virtual/main/artigos/1_diagnostico_da_escolarizacao.pdf)
+     
+                                                                                 
+
+#### **[6. Imagem da polícia militar do Rio de Janeiro pela ótica da classe social dos cidadãos pesquisados](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/DATAUNIRIO/biblioteca_virtual/main/artigos/1_diagnostico_da_escolarizacao.pdf)**
+
+
+Este trabalho verifica empiricamente a existência de relação entre classe econômica e percepção sobre a imagem da polícia. Especificamente, o artigo apresenta quais fatores podem explicar a percepção da imagem da autoridade policial na cidade do Rio de Janeiro. Com base na utilização de dados secundários (RAMOS e MUSUMECI, 2005), foi realizado um recorte nos dados e aplicadas técnicas de Estatística Descritiva e Análise Fatorial para obtenção de interações e possíveis constructos na percepção da imagem da polícia na cidade do Rio de Janeiro pelos sujeitos da pesquisa (cidadãos de todas as classes sociais que mantiveram algum tipo de contato com a Polícia Militar do Rio de Janeiro). Assim, este estudo encontrou dois principais elementos que constroem a imagem da polícia percebida pela população carioca: (i) a imagem hostil da polícia e (ii) a imagem organizacional da polícia. Esses constructos permitiram a verificação empírica da imagem da polícia percebida pelas classes sociais. A principal contribuição deste artigo é evidenciar que tanto a classe baixa como a alta têm uma imagem negativa da polícia. Logo, não é a proximidade dos cidadãos de baixa renda com a Polícia Militar na cidade do Rio de Janeiro que influencia uma percepção negativa da imagem da polícia, uma vez que esses resultados também foram encontrados na classe alta.
+
+Publicado na Revista Administração em Diálogo em 2008.
+
+[![](img/pdf-icon.png){width=40px}](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/DATAUNIRIO/biblioteca_virtual/main/artigos/1_diagnostico_da_escolarizacao.pdf)
+
+
+
+####  **[6. Percepção de culpa num boicote de um bem de luxo](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/DATAUNIRIO/biblioteca_virtual/main/artigos/1_diagnostico_da_escolarizacao.pdf)**
+
+O presente trabalho discute a temática do boicote dos consumidores a partir de uma análise da ‘Percepção de Culpa’ como motivação para o boicote em três grupos: (i) calouros de Administração; (ii) Formandos de Administração; e (iii) alunos de Ciência da Computação. Para isso, são apresentadas duas hipóteses a serem testadas por meio do método experimento, tendo como sujeitos alunos dos dois cursos de uma universidade federal em Minas Gerais. H1 é a afirmação de que alunos formandos de Administração têm maior ‘Percepção de Culpa’ no boicote de um bem de luxo que alunos de Ciências da Computação. Já H2 é a afirmação de que alunos recém admitidos em um curso de Administração possuem a mesma média na ‘Percepção de Culpa’ no boicote de um bem de luxo que alunos de Ciência da Computação. Por meio de um experimento com 90 observações divididas em três diferentes grupos, observou-se que H1 foi aceita com p ≤ 0,05 e a H2 foi rejeitada no estudo. Isso demonstra que de fato alunos de Administração (calouros e veteranos) obtiveram maior ‘Percepção de Culpa’ como motivação para o boicote do que os alunos de Ciência da Computação em um contexto de responsabilidade social negativo de uma empresa fictícia. Estes resultados possibilitam entender que a abordagem de Responsabilidade Social Corporativa nas estruturas curriculares dos cursos de Administração vai para além do conhecimento teórico, sendo aplicadas na decisão de compra dos estudantes.
+
+Publicado na Revista Pensamento Contemporâneo em Administração em 2013.
+
+[![](img/pdf-icon.png){width=40px}](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/DATAUNIRIO/biblioteca_virtual/main/artigos/1_diagnostico_da_escolarizacao.pdf)
+
+
+####  **[6. Influência de brasileiros famosos no boicote de consumidores que usam redes sociais virtuais](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/DATAUNIRIO/biblioteca_virtual/main/artigos/1_diagnostico_da_escolarizacao.pdf)**
+
+Boicote é o ato de o consumidor deixar de comprar um produto ou serviço por não concordar com um posicionamento de uma empresa (Klein, Smith e John, 2004), o que pode gerar perdas financeiras a uma empresa. Verificando as lacunas na literatura nacional tem-se como objetivo geral identificar grupos de pessoas famosas no Brasil que podem influenciar consumidores usuários de redes sociais a boicotar. Uma amostra com 272 consumidores usuários de redes sociais foi utilizada neste estudo. Dentre 162 pessoas famosas citadas na fase de pré-teste, 62 foram consideradas no estudo final. Estas pessoas foram classificadas em oito grupos de acordo com sua presença na mídia (jornalistas, entretenimento, religiosos, atletas, atores, cantores, políticos e personalidades). Dentre alguns resultados, têm-se: (a) o ranking de pessoas famosas que mais influenciaram os consumidores usuários de redes sociais da amostra; (b) as correlações entre os grupos de pessoas famosas; e, (c) o cruzamento da relação da influência das pessoas famosas na participação de um boicote pelo consumidor com variáveis demográficas.
+
+Publicado na Revista de Negócios em 2012.
+
+[![](img/pdf-icon.png){width=40px}](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/DATAUNIRIO/biblioteca_virtual/main/artigos/1_diagnostico_da_escolarizacao.pdf)
+
+
+
+
+
+## Artigos em congresso científico 
+
+####  **[6. O planejamento colaborativo no ensino da Estatística: Instrumento para formar discentes e docentes](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/DATAUNIRIO/biblioteca_virtual/main/artigos/1_diagnostico_da_escolarizacao.pdf)**
+
+Objetivo: A constatação de que as disciplinas de Estatística oferecidas aos mais diversos cursos da UNIRIO estavam desconectadas das realidades e interesses dos estudantes e não conseguiam despertar motivação nos mesmos, motivou o grupo de professores a iniciar uma mudança na metodologia utilizada. Métodos: Etapa 1: Reunião de docentes para troca de experiências e percepções a respeito das dificuldades encontradas para motivar os estudantes das áreas da saúde, exatas e humanas sobre a importância da aprendizagem. Etapa 2: Definição de objetivos e habilidades a serem adquiridos pelos estudantes. Etapa 3: Planejamento de atividades com definição das questões motivadoras, e de um tema comum para ser trabalhado e desenvolvido pelos alunos de todas as turmas e apresentado em formato de artigo, em pôsteres ou mesmo com comunicação oral em um mesmo dia. Etapa 4: Reunião com os coordenadores de curso e diretores de escola para informar a mudança de metodologia e convidá-los a participar de reuniões para a elaboração de questões específicas de cada área. Etapa 5: Apresentação final e avaliação conjunta dos alunos. Resultados: O Planejamento da disciplina feito em colaboração trouxe vantagens para o desenvolvimento do componente curricular, sendo a maior delas a integração e discussão constante do grupo de docentes a respeito dos resultados obtidos em sala de aula. Conclusão: O planejamento colaborativo permitiu a elaboração de uma nova metodologia de ensino da Estatística. A experiência possibilitou uma mudança positiva, tanto dos docentes, que antes atribuíam aos discentes todas as dificuldades enfrentadas, como dos discentes, que também não assumiam suas responsabilidades pelo ato de aprender.
+
+Publicado na IASE Satellite Conference em 2015.
+
+
+####  **[6. Método ativo de aprendizagem de Estatística: Uma experiência nos cursos da UNIRIO](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/DATAUNIRIO/biblioteca_virtual/main/artigos/1_diagnostico_da_escolarizacao.pdf)**
+
+A Estatística é um componente curricular presente em quase todos os cursos de graduação. O uso crescente deste conhecimento é motivado pela necessidade de gerar informações a partir de  grandes volumes de dados disponíveis em nossa sociedade cada vez mais informatizada. Neste trabalho serão apresentadas e discutidas as potencialidades de uma metodologia ativa de  aprendizado de Estatística utilizando o programa R. Tendo como objetivo desenvolver a habilidade de raciocínio, a autonomia e em especial, o pensamento crítico por parte dos estudantes, estimulando-os a tornarem-se responsáveis pelo processo de aprendizagem de Estatística. Como resultado desta metodologia, percebemos que a Estatística tornou-se mais interessante aos olhos dos estudantes, uma vez que estes conseguem visualizar a importância e utilidade desse conhecimento na carreira escolhida.
+
+Publicado na IASE Satellite Conference em 2015.
+
+
+####  **[6. Pequenas Ilhas de Inclusão em um Oceano de Exclusão Digital: Uma Análise da População Brasileira com Acesso à Internet ao longo do tempo, espaço e status sócioeconômico](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/DATAUNIRIO/biblioteca_virtual/main/artigos/1_diagnostico_da_escolarizacao.pdf)**
+
+Este artigo descreverá a distribuição das possibilidades de acesso à rede internacional de computadores, a Internet, dentro do crescimento do acesso do Brasil. Para tanto iremos desagregar os dados da Pesquisa Nacional por Amostra de Domicílios (PNAD) do IBGE observando o aumento do acesso à Internet por nível de educação, cor, região, sexo, e idade. O artigo se configura como um ensaio descritivo, que utiliza como metodologia a pesquisa bibliográfica e apresentamos também um modelo linear generalizado. Dessa forma, mostramos o perfil da exclusão digital, isto é, os retratos do crescimento do acesso a Internet entre os anos de 2001 e 2002 e o efeito da mudança na estrutura dessas variáveis sobre o acesso à Internet.
+
+Publicado no Encontro de Administração Pública e Governança em 2006.
+
+
+####  **[6. A Utilização do IDH para Políticas Públicas de Inclusão Digital nos Municípios Brasileiros: Conceitos Metodológicos e Legitimidade desse Critério](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/DATAUNIRIO/biblioteca_virtual/main/artigos/1_diagnostico_da_escolarizacao.pdf)**
+
+Existe uma alta correlação - mais de 70% - entre índice de desenvolvimento humano (IDH) e a porcentagem de pessoas que vivem em domicílios com computador (%CPU) considerando toda a nação brasileira. No entanto, quando se observam essas duas mesmas variáveis somente na Região Norte essa correlação entre IDH e %CPU cai bastante, sendo de apenas 55,68%. Por que isso ocorre? Por que algumas regiões têm uma alta relação entre desenvolvimento humano e domicílios com acesso ao computador que outras regiões? Nesse sentido, utilizar o grau de desenvolvimento humano como critério para políticas públicas de inclusão digital é potencialmente perigoso. Nesse artigo, é comparado o IDH a %CPU do Censo 2000 e verificamos a distância entre estes dois índices. Dessa forma, conclui-se que a aproximação a grandes metrópoles pode ser um fator mais influente para o uso de computadores e que o IDH não é uma solução adequada para a comparação e monitoramento de outras dimensões do desenvolvimento, no caso, o desenvolvimento tecnológico.
+
+Publicado no Encontro Nacional da ANPAD em 2006.
+                                                                                 
+####  **[6. Um estudo sobre a fecundidade das mulheres brasileiras na década de noventa](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/DATAUNIRIO/biblioteca_virtual/main/artigos/1_diagnostico_da_escolarizacao.pdf)**
+
+O objetivo deste trabalho é o de estudar o comportamento da fecundidade das mulheres brasileiras em idade fértil nos Censos de 1991 e 2000, para o país, por grandes regiões da federação e por algumas variáveis sócio-econômicas, a saber: situação do domicílio, estado conjugal, educação da mulher, renda da mulher e renda total do domicílio. Para tal fim, calculou-se a Taxa de Fecundidade Total (TFT) para essas subpopulações femininas, para os dois Censos, analisando se a evolução da TFT dentro das categorias de cada variável seguiu um padrão homogêneo em relação ao total da variável. Essa TFT foi corrigida pelo método da Razão P/F, derivado do método de Brass, apresentada no Manual X das Nações Unidas. Detectamos que a fecundidade continuou a cair em todas as regiões do Brasil. Essa queda, porém, não ocorreu igualmente em todas as regiões. A fecundidade da Região Norte caiu de 4,14 para 3,13, enquanto na Região Sudeste a queda foi de 2,35 para 2,10. Percebemos também a existência de uma fecundidade crescente nas jovens abaixo de 20 anos, para qualquer categoria de quaisquer uma das variáveis estudadas. Constatamos também um fenômeno novo, na região Sudeste: o aumento da fecundidade das mulheres nunca unidas entre 1991 e 2000. Esse aumento teve um grande impacto pois apesar de todas as mulheres nunca unidas no resto do Brasil terem diminuído sua fecundidade, o total do país apresentou um aumento significativo.
+
+Publicado no XIV Encontro Nacional de Estudos Populacionais em 2004.
+                                                                                 
+####  **[6. O comportamento econômico dos idosos brasileiros: Evidências a partir de um modelo logit multinomial](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/DATAUNIRIO/biblioteca_virtual/main/artigos/1_diagnostico_da_escolarizacao.pdf)**
+
+Este artigo tem por objetivo analisar o comportamento econômico dos idosos brasileiros. Para isso, estimou-se um modelo logit multinomial para investigar esse comportamento. As especificações de escolhas utilizadas como variável resposta foram definidas em Camarano et al (1999) e Telles (2002) da seguinte forma: aposentados puros; trabalhadores puros; aposentados trabalhadores; outras. Assim, tenta-se mostrar que o comportamento econômico dos idosos brasileiros tem grande variabilidade muito em função de variáveis sociais e regiões geográficas, influenciando diretamente as demandas econômicas da terceira idade.
+
+Publicado no XV Encontro Nacional de Estudos Populacionais em 2006.
+                                                                                 
+####  **[6. Reflexões sobre a Qualidade de Vida dos Municípios do Estado do Rio de Janeiro e suas Potenciais Implicações para a Formulação de Políticas Públicas](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/DATAUNIRIO/biblioteca_virtual/main/artigos/1_diagnostico_da_escolarizacao.pdf)**
+
+O presente estudo tem como objetivo classificar e agrupar os 92 municípios do Estado do Rio de Janeiro, de acordo com suas semelhanças quanto a variáveis relacionadas à qualidade de vida. Para a consecução do objetivo do trabalho foram utilizadas algumas técnicas de análise multivariada, notadamente a análise fatorial e a análise de clusters. Em países emergentes como o Brasil, onde uma série de questões substantivas fundamentais para a gestão pública ainda está distante de ser equacionada, discutir a temática da qualidade de vida parece ser algo relativo e adjetivo. Conforme Herculano (1998), à primeira vista, esta parece ser uma questão secundária, uma vez que existiria a necessidade de provimento básico mínimo à população, além da universalização do acesso aos serviços públicos constitucionalmente garantidos, para que depois, por exemplo, fosse pensada a melhoria da qualidade desses mesmos serviços já universalizados. O Índice de Desenvolvimento Humano (IDH) proposto pela Organização das Nações Unidas é uma alternativa ao uso do PIB per capita como medida de desenvolvimento de uma sociedade e permite ranquear os países em termos do desenvolvimento humano. O Índice Municipal de desenvolvimento Humano (IDHM) é, assim como o IDH, um índice que mede o desenvolvimento humano de uma unidade geográfica. Como o IDH foi concebido para ser aplicado no nível de países e grandes regiões, sua aplicação no nível municipal tornou necessárias algumas adaptações metodológicas e conceituais. A metodologia de cálculo do IDH vem sendo alvo de reflexões por parte de estudiosos de indicadores. Autores como Dutt-Ross et al (2006), em um estudo sobre a política de inclusão digital, argumentam que o IDH-M pode não ser um bom critério para diagnóstico e atuação em determinadas políticas públicas. O presente estudo pretende oferecer subsídios para ampliar a reflexão sobre o IDH-M, pois, o IDH não é adequado para mensurar qualidade de vida. O estudo verificou que os municípios do Estado do Rio de Janeiro podem ser classificados em macro características: educação e saúde, atividade produtiva, infraestrutura sanitária e concentração de renda. A redução do universo de variáveis em quatro fatores latentes, representativos das variáveis originais, viabilizou a criação de um índice de quatro dimensões visando a mensuração da qualidade de vida. O estudo também verificou que há três grupos de municípios com características semelhantes entre si: O primeiro grupo com melhor situação de saúde, educação e saneamento, porém níveis de atividades produtiva inferiores aos municípios dos demais grupos. O segundo com as mais precárias condições de vida, visto que não possuem qualidade de vida tão boa quanto os do primeiro grupo nem tampouco é composto por municípios tão grandes e produtivos. O terceiro grupo se destaca pelos fatores relacionados à atividade produtiva e à concentração de renda, ou seja, são municípios cujo dinamismo econômico é intenso, mas com o desenvolvimento de atividades concentradoras de renda. A semelhança entre esses municípios sugere que tipo de política pública é mais necessária em cada grupo de municípios. 
+
+Trabalho apresentado no XXXV Encontro Nacional da ANPAD em 2011.
+

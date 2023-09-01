@@ -1,0 +1,48 @@
+---
+title: "APRESENTAÇÃO"
+output:
+  html_document:
+    css: "style.css"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# htmltools::tagList(
+#   htmltools::tags$script(src = "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"),
+#   htmltools::tags$script(src = "https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"),
+#   htmltools::tags$script(src = "https://cdnjs.cloudflare.com/ajax/libs/wow/0.1.12/wow.min.js"),
+#   htmltools::tags$script(src = "script.js")
+# )
+```
+
+A Biblioteca Virtual DATAUNIRIO é responsável pela veiculação das publicações bibliográficas produzidas pelo professor Steven Ross DMQ da UNIRIO, bem como informações e livros na área de métodos quantitativos, R e Python. Como as publicações não são comercializadas, a Biblioteca Virtual torna-se o principal canal de acesso para essa produção.
+
+
+
+# Biblioteca virtual em números
+
+
+````{=html}
+```{r, echo=FALSE, results='asis'}
+xfun::file_string('stats_counter.html')
+
+```
+````
+ 
+   
+A Biblioteca virtual atua para a promoção das ações de intercâmbio, disseminação e democratização do acesso às informações, assegurando a expansão da Memória Técnica, independente do suporte, garantindo a visibilidade dessa produção de artigos e bases de dados científicas.
+
+Para acesso à Biblioteca o usuário deve escolher entre o acervo academico e o  repositório de dados.
+
+O acervo da Biblioteca Virtual é constituído por:
+
+1. Publicações bibliográficas produzidas por editoras universitárias e editoras comerciais;
+2. Obras de referência (Manuais, guias, dicionários, enciclopédias, atlas, etc);
+3. Periódicos (jornais, boletins, revistas de caráter técnico-científico ou informativo);
+4. Capitulo de Livro;
+5. Materiais iconográficos (Infográficos, cartazes, folderes, filipetas e outros materiais que tenham como suporte o papel, utilizados para a divulgação de campanhas e eventos realizados pelo DATAUNIRIO ou pelo DMQ);
+6. Publicações Digitais (publicações disponíveis em meio eletrônico nos formatos PDF, EPUB e webBook);
+7. Blogs.
+
+Para outras informações, [visite o meu site](https://steven.metodosquantitativos.com/) 
