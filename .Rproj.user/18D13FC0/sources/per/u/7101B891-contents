@@ -1,0 +1,6 @@
+list.files(path = "artigos", full.names=T)
+
+
+paste0('#### **[1.', list.files(path = "artigos", full.names=T))
+
+](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/DATAUNIRIO/biblioteca_virtual/main/artigos/1_diagnostico_da_escolarizacao.pdf)**
